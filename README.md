@@ -1,5 +1,15 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+#  Robofriends
+
+
+## Puedes ver la aplicación desde el siguiente link
+https://gabriel-demian.github.io/robofriends/
+
+## Para deployar usé las siguientes instrucciones para modiciar el JSON 
+https://create-react-app.dev/docs/deployment/
+
+
 ## Available Scripts
 
 In the project directory, you can run:
